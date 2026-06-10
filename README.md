@@ -19,12 +19,6 @@ pnpm install
 pnpm run dev
 ```
 
-### 测试
-
-```bash
-pnpm test
-```
-
 ## 注意事项
 
 - `Virtuoso` 会自己维护滚动容器与可见区间，接入成本低于 headless 方案。
